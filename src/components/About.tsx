@@ -65,7 +65,7 @@ export default function About() {
           I am a networking-focused engineer in the early stages of my career,
           building a strong foundation in enterprise networking and
           infrastructure fundamentals. My interest lies in understanding how
-          networks behave in real-world conditions — how traffic flows, how
+          networks behave in real-world conditions, how traffic flows, how
           failures occur, and how issues are systematically identified and
           resolved.
         </p>
